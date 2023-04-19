@@ -8,7 +8,7 @@ class A {
 
 public class FirstWay {
 	public static void main(String[] args) {
-		new A();
+		new A(); // using new keyword
 
 	}
 
